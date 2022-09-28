@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "Total Car Care",
+        "type": "Manufacturer Company",
+        "feature": "Users can buy products using Stripe, and post reviews for the site.Admin can make another person admin, remove another admin, add products, and complete the Shipments.Separate admin and user dashboard also responsive for mobile & desktop.",
+        "details": "This is a website about tools manufacturer shop.The website is fully function Single Page Application with react route and nested route. This is a website about tools manufacturer shop.The website is fully function Single Page Application with react route and nested route.User can register with email and Password. User can also sign in with google account. It has password reset system. Many of the components have been used. Destructive has been used.React Router has been used",
+        "image": "https://i.ibb.co/h7qcmGQ/2022-06-10-4-2-1.png",
+        "live": "https://my-final-project-3d37c.web.app/",
+        "client": "https://github.com/salmakhatun0056/total-car-care",
+        "server": "https://github.com/salmakhatun0056/total-car-care-server-site",
+        "date": "3 May, 2022",
+        "screenshot": [
+            {
+                "num1": "https://i.ibb.co/16TGNhH/Screenshot-2022-06-13-130203.png"
+            },
+            {
+                "num1": "https://i.ibb.co/5nH7q8H/Screenshot-2022-06-13-130352.png"
+            },
+            {
+                "num1": "https://i.ibb.co/PW8fdZK/Screenshot-2022-06-13-130633.png"
+            }
+        ],
+        "tech": [
+            {
+                "tech1": "REACT"
+            },
+            {
+                "tech1": "TAILWINDCSS"
+            },
+            {
+                "tech1": "DAISYUI"
+            },
+            {
+                "tech1": "EXPRESS"
+            },
+            {
+                "tech1": "MONGODB"
+            },
+            {
+                "tech1": "FIREBASE"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Cycle warehouse",
+        "type": "Warehouse Management System",
+        "feature": " Login by email and password system also Github and Google authentication system. Email Verification system & Responsive",
+        "details": "This is a website about bicycle warehouse.The website is fully function Single Page Application.It has Private route.User can register with email and Password.User can also sign in with google account.It has password reset system.Many of the components have been used.Destructive has been used.React Router has been used.",
+        "image": "https://i.ibb.co/SNP2H0W/2022-06-10-5-1.png",
+        "live": "https://assignment-11-9c99d.web.app/",
+        "client": "https://github.com/salmakhatun0056/cycle-warehouse-client-side",
+        "server": "https://github.com/salmakhatun0056/cycle-warehouse-server-site",
+        "date": "28 April, 2022",
+        "screenshot": [
+            {
+                "num1": "https://i.ibb.co/ykSvt41/Screenshot-2022-06-13-134123-1.png"
+            },
+            {
+                "num1": "https://i.ibb.co/5BbnYJh/Screenshot-2022-06-13-134017-1.png"
+            },
+            {
+                "num1": "https://i.ibb.co/sJKKfw6/Screenshot-2022-06-13-133939-1.png"
+            }
+        ],
+        "tech": [
+            {
+                "tech1": "React"
+            },
+            {
+                "tech1": "BOOTSTRAP"
+            },
+            {
+                "tech1": "EXPRESS"
+            },
+            {
+                "tech1": "MONGODB"
+            },
+            {
+                "tech1": "FIREBASE"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dental Services",
+        "type": "Manufacturer company",
+        "feature": "The site has a private route.Users can log in using an email password or a google account.",
+        "details": "This is a website about tools manufacturer shop.The website is fully function Single Page Application with react route and nested route. This is a website about tools manufacturer shop.The website is fully function Single Page Application with react route and nested route.User can register with email and Password. User can also sign in with google account. It has password reset system. Many of the components have been used. Destructive has been used.React Router has been used.",
+        "image": "https://i.ibb.co/MR58CT2/2022-06-10-3.png",
+        "live": "https://assignment-10-bdab6.web.app/",
+        "client": "https://github.com/salmakhatun0056/dental-services",
+        "server": "",
+        "date": "25 May, 2022",
+        "screenshot": [
+            {
+                "num1": "https://i.ibb.co/27f492T/Screenshot-2022-06-13-133209-1.png"
+            },
+            {
+                "num1": "https://i.ibb.co/YthJ0ck/Screenshot-2022-06-13-133243-1.png"
+            },
+            {
+                "num1": "https://i.ibb.co/gRYXp6J/Screenshot-2022-06-13-133300-1.png"
+            }
+        ],
+        "tech": [
+            {
+                "tech1": "React"
+            },
+            {
+                "tech1": "BOOTSTRAP"
+            },
+            {
+                "tech1": "FIREBASE"
+            }
+        ]
+    }
+]
